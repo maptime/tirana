@@ -1,13 +1,13 @@
-baseurl: /starter
+baseurl: /tirana
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: tirana
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: Maptime Tirana
+  #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
 gems:

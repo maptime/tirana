@@ -1,4 +1,4 @@
-## Maptime Starter site
+## Maptime Tirana
 
 Hosting your own Maptime chapter website? **Starter** is a simple Jekyll theme that's designed to be forked and tweaked to suit your needs. [Jekyll](http://jekyllrb.com/) is a blog-aware, static site generator for personal, project, or organization sites—and it's the software that will generate your Maptime chapter's site.
 
