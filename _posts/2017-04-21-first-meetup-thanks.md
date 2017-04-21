@@ -2,7 +2,7 @@
 layout: post
 title: First Meetup Feedback
 author: diskmanti
-image: /img/first_meetup_feedback/photo.jpg
+image: ../img/first_meetup_feedback/photo.jpg
 ---
 
 Pershendetje,
