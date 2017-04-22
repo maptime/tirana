@@ -2,8 +2,8 @@
 layout: post
 title: First Meetup Feedback
 author: diskmanti
+image: "https://github.com/maptime/tirana/blob/gh-pages/img/first_meetup_feedback/photo.jpg"
 ---
-<img src="https://github.com/maptime/tirana/blob/gh-pages/img/first_meetup_feedback/photo.jpg">
 
 Pershendetje,
 
