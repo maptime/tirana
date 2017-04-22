@@ -3,7 +3,7 @@ layout: post
 title: First Meetup Feedback
 author: diskmanti
 ---
-+<img src="./img/first_meetup_feedback/photo.jpg">
++<img src="../../img/first_meetup_feedback/photo.jpg">
 
 Pershendetje,
 
