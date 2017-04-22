@@ -2,8 +2,8 @@
 layout: post
 title: First Meetup Feedback
 author: diskmanti
-image: "../img/first_meetup_feedback/photo.jpg"
 ---
+![tirana]({{ site.url }}tirana/img/first_meetup_feedback/.photo.jpg)
 
 Pershendetje,
 
