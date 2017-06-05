@@ -20,7 +20,7 @@ Mund ta beni download ne kete [link](https://github.com/maptime/tirana/blob/gh-p
 
 
 
-###Starting 😊
+### Starting 😊
 ![1](https://github.com/maptime/tirana/blob/gh-pages/img/maptime2/2.jpg?raw=true "Starting...")
 
 
@@ -40,7 +40,7 @@ Mund ta beni download ne kete [link](https://github.com/maptime/tirana/blob/gh-p
 ![8](https://github.com/maptime/tirana/blob/gh-pages/img/maptime2/8.jpg?raw=true)
 
 
-###Best Team EVER 😊
+### Best Team EVER 😊
 ![9](https://github.com/maptime/tirana/blob/gh-pages/img/maptime2/4.jpg?raw=true)
 
 
