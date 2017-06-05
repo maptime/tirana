@@ -2,6 +2,7 @@
 layout: post
 title: Maj Meetup Thanks
 author: diskmanti
+image: https://github.com/maptime/tirana/blob/gh-pages/img/maptime2/4.jpg
 ---
 
 Pershendetje,
