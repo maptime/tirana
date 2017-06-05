@@ -132,6 +132,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed
+  jemoji
 
 BUNDLED WITH
    1.15.1
