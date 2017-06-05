@@ -4,7 +4,7 @@ title: Maj Meetup Thanks
 author: diskmanti
 ---
 
-Pershednetje,
+Pershendetje,
 
 Do doja te falenderoja te gjithe ata qe moren pjese tek MaptimeTirana #2. Gjate ketij eventi mesuam me shume rreth te dhenave te OSM dhe ku mund ti gjejme. Gjithashtu zhvilluam dhe nje gentle intro ne QGIS dhe mesuam per cfare mund ta perdorim.
 

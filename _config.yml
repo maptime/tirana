@@ -12,4 +12,5 @@ maptime:
 
 gems:
   - jekyll-feed
-#  - jemoji
+  - jemoji
+  - jekyll-paginate
