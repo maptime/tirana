@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: Web Map Servers
-rsvp:  
+rsvp:  https://www.eventbrite.com/o/diskmanti-13526041119
 author: diskmanti
 image: ""
 ---
